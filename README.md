@@ -1,2 +1,2 @@
-# hello-word
-beginner level
+# Week 1
+
